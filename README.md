@@ -1,2 +1,2 @@
-# Responsible-AI-wiki
-Wiki to capture relevant information and developments in the field of Responsible AI
+# Responsible AI repository
+Repo to capture relevant information and developments in the field of Responsible AI
