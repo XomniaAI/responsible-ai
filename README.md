@@ -32,6 +32,300 @@ The aim is to inform, educate and support anyone who is interested in Responsibl
 
 ### Articles
 
+#### Accountability
+
+Ananny, M., & Crawford, K. (2018). Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. new media & society, 20(3), 973-989. http://ananny.org/papers/anannyCrawford_seeingWithoutKnowing_2016.pdf
+
+Bennett Moses, Lyria, and Janet Chan. "Algorithmic prediction in policing: assumptions, evaluation, and accountability." Policing and society 28, no. 7 (2018): 806-822. https://www.tandfonline.com/doi/pdf/10.1080/10439463.2016.1253695
+
+Chopra, A. K., & Singh, M. P. (2016, April). From social machines to social protocols: Software engineering foundations for sociotechnical systems. In Proceedings of the 25th International Conference on World Wide Web (pp. 903-914). https://eprints.lancs.ac.uk/id/eprint/78048/1/IOSE_akc_v123.pdf
+
+Dignum, F., & Dignum, V. (2020). How to center AI on humans. In NeHuAI@ ECAI (pp. 59-62). http://ceur-ws.org/Vol-2659/dignum.pdf
+
+Hayes, P., Van De Poel, I., & Steen, M. (2020). Algorithms and values in justice and security. AI & SOCIETY, 1-23. https://link.springer.com/content/pdf/10.1007/s00146-019-00932-9.pdf
+
+Kroll, J. A. (2015). Accountable algorithms (Doctoral dissertation, Princeton University). http://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9570&context=penn_law_review
+
+Lepri, B., Oliver, N., Letouzé, E., Pentland, A., & Vinck, P. (2018). Fair, transparent, and accountable algorithmic decision-making processes. Philosophy & Technology, 31(4), 611-627. https://dspace.mit.edu/bitstream/handle/1721.1/122933/13347_2017_279_ReferencePDF.pdf?sequence=2
+
+Lepri, B., Oliver, N., & Pentland, A. (2021). Ethical machines: the human-centric use of artificial intelligence. Iscience, 102249. https://www.sciencedirect.com/science/article/pii/S2589004221002170/pdf?md5=e9698938e71c25097265d5b3edd1a124&pid=1-s2.0-S2589004221002170-main.pdf
+
+Sanders, C. B., Weston, C., & Schott, N. (2015). Police innovations,‘secret squirrels’ and accountability: Empirically studying intelligence-led policing in Canada. British journal of criminology, 55(4), 711-729. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.818.331&rep=rep1&type=pdf
+
+van de Poel, I. (2020). Embedding values in artificial intelligence (AI) systems. Minds and Machines, 30(3), 385-409. https://link.springer.com/article/10.1007/s11023-020-09537-4
+
+Verdiesen, I., de Sio, F. S., & Dignum, V. (2021). Accountability and control over autonomous weapon systems: A framework for comprehensive human oversight. Minds and Machines, 31(1), 137-163. https://link.springer.com/article/10.1007/s11023-020-09532-9
+
+Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Transparent, explainable, and accountable AI for robotics. Science (Robotics), 2(6). https://philarchive.org/archive/WACTEA
+
+#### Ethics
+
+High-Level Expert Group on Artificial Intelligence (European Commission) - The Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self assessment (2020) https://op.europa.eu/en/publication-detail/-/publication/73552fcd-f7c2-11ea-991b-01aa75ed71a1/language-en/format-PDF/source-search
+
+High-Level Expert Group on Artificial Intelligence (European Commission) - Ethics Guidelines for Trustworthy AI (2019) https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1
+
+Abel, D., MacGlashan, J., & Littman, M. L. (2016, March). Reinforcement learning as a framework for ethical decision making. In Workshops at the thirtieth AAAI conference on artificial intelligence. https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/viewPDFInterstitial/12582/12346
+
+Anderson, J., & Kamphorst, B. (2014, March). Ethics of e-coaching: Implications of employing pervasive computing to promote healthy and sustainable lifestyles. In 2014 IEEE international conference on pervasive computing and communication workshops (PERCOM WORKSHOPS) (pp. 351-356). IEEE. https://www.academia.edu/download/50305277/SIPC_-_Anderson_-_Kamphorst_-_camera-ready-version.pdf
+
+Anderson, M., & Anderson, S. L. (2007). Machine ethics: Creating an ethical intelligent agent. AI magazine, 28(4), 15-15. https://ojs.aaai.org/index.php/aimagazine/article/download/2065/2052/
+
+Cowgill, B., Dell'Acqua, F., Deng, S., Hsu, D., Verma, N., & Chaintreau, A. (2020, July). Biased programmers? or biased data? a field experiment in operationalizing ai ethics. In Proceedings of the 21st ACM Conference on Economics and Computation (pp. 679-681). https://arxiv.org/pdf/2012.02394
+
+De Ethische Data Assistent, D. E. D. A., & Over, U. D. S. Utrecht Data School. https://dataschool.nl/nieuws/challenging-citizenship-social-media-and-big-data/
+
+Dignum, V. (2017). Responsible artificial intelligence: designing AI for human values. http://dspace.daffodilvarsity.edu.bd:8080/bitstream/handle/123456789/2181/itu2017-1.pdf?sequence=1&isAllowed=y
+
+Dignum, V. (2021, June). The Myth of Complete AI-Fairness. In International Conference on Artificial Intelligence in Medicine (pp. 3-8). Springer, Cham. https://arxiv.org/pdf/2104.12544
+
+Drosou, M., Jagadish, H. V., Pitoura, E., & Stoyanovich, J. (2017). Diversity in big data: A review. Big data, 5(2), 73-84. https://www.cs.drexel.edu/~julia/documents/big.2016.0054.pdf
+
+Eitel-Porter, R. (2021). Beyond the promise: implementing ethical AI. AI and Ethics, 1(1), 73-80. https://link.springer.com/article/10.1007/s43681-020-00011-6
+
+Fazelpour, S., & Lipton, Z. C. (2020, February). Algorithmic fairness from a non-ideal perspective. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 57-63). https://arxiv.org/pdf/2001.09773
+
+Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., ... & Vayena, E. (2018). AI4People—an ethical framework for a good AI society: opportunities, risks, principles, and recommendations. Minds and Machines, 28(4), 689-707. https://link.springer.com/article/10.1007/s11023-018-9482-5
+
+Franzke, A. S., Muis, I., & Schäfer, M. T. (2021). Data Ethics Decision Aid (DEDA): a dialogical framework for ethical inquiry of AI and data projects in the Netherlands. Ethics and Information Technology, 1-17. https://link.springer.com/article/10.1007/s10676-020-09577-5
+
+Friedman, B., Harbers, M., Hendry, D. G., van den Hoven, J., Jonker, C., & Logler, N. (2021). Eight grand challenges for value sensitive design from the 2016 Lorentz workshop. Ethics and Information Technology, 23(1), 5-16. https://link.springer.com/article/10.1007/s10676-021-09586-y
+
+Friedman, B., Harbers, M., Hendry, D. G., van den Hoven, J., Jonker, C., & Logler, N. (2021). Introduction to the special issue: value sensitive design: charting the next decade. Ethics and Information Technology, 23(1), 1-3. https://link.springer.com/article/10.1007/s10676-021-09585-z
+
+Hagendorff, T. (2020). The ethics of AI ethics: An evaluation of guidelines. Minds and Machines, 30(1), 99-120. https://link.springer.com/article/10.1007/s11023-020-09517-8
+
+Harbers, M., Peeters, M. M., & Neerincx, M. A. (2017). Perceived autonomy of robots: effects of appearance and context. In A World with Robots (pp. 19-33). Springer, Cham. http://mariekepeeters.com/wp-content/uploads/2013/11/Perc_auton_ICRE-16_camready.pdf
+
+Harbers, M., de Greeff, J., Kruijff-Korbayová, I., Neerincx, M. A., & Hindriks, K. V. (2017). Exploring the ethical landscape of robot-assisted search and rescue. In A World with Robots (pp. 93-107). Springer, Cham. https://www.academia.edu/download/61488529/Exploring_the_Ethical_Landscape_of_Robot-Assisted_Search_and_Rescue20191211-45204-9fbxe9.pdf
+
+Sosa Hidalgo, M. (2019). Design of an Ethical Toolkit for the Development of AI Applications. https://repository.tudelft.nl/islandora/object/uuid:b5679758-343d-4437-b202-86b3c5cef6aa/datastream/OBJ3/download
+
+Köbis, N., Bonnefon, J. F., & Rahwan, I. (2021). Bad machines corrupt good morals. Nature Human Behaviour, 5(6), 679-685. http://publications.ut-capitole.fr/43547/1/wp_tse_1212.pdf
+
+Lepri, B., Oliver, N., & Pentland, A. (2021). Ethical machines: the human-centric use of artificial intelligence. Iscience, 102249. https://www.sciencedirect.com/science/article/pii/S2589004221002170/pdf?md5=e9698938e71c25097265d5b3edd1a124&pid=1-s2.0-S2589004221002170-main.pdf
+
+Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector. Available at SSRN 3403301. https://arxiv.org/pdf/1906.05684
+
+Madaio, M. A., Stark, L., Wortman Vaughan, J., & Wallach, H. (2020, April). Co-designing checklists to understand organizational challenges and opportunities around fairness in ai. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). https://dl.acm.org/doi/pdf/10.1145/3313831.3376445
+
+Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. Frontiers in Big Data, 2, 13. https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full
+
+Peeters, M. M., van Diggelen, J., Van Den Bosch, K., Bronkhorst, A., Neerincx, M. A., Schraagen, J. M., & Raaijmakers, S. (2021). Hybrid collective intelligence in a human–AI society. AI & SOCIETY, 36(1), 217-238. https://www.karelvandenbosch.nl/documents/2020_Peeters_etal_AI&S_Hybrid_collective_intelligence_in_a_human%E2%80%93AI_society.pdf
+
+Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, E. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151). https://dl.acm.org/doi/pdf/10.1145/3375627.3375820
+
+STEUER, F. (2018). Machine Learning for Public Policy Making (Doctoral dissertation, School of Public Policy, Central European University). http://www.etd.ceu.edu/2018/steuer_fabian.pdf
+
+van de Poel, I. (2020). Embedding values in artificial intelligence (AI) systems. Minds and Machines, 30(3), 385-409. https://link.springer.com/article/10.1007/s11023-020-09537-4
+
+Van Wynsberghe, A., & Robbins, S. (2019). Critiquing the reasons for making artificial moral agents. Science and engineering ethics, 25(3), 719-735. https://link.springer.com/article/10.1007/s11948-018-0030-8
+
+Zardiashvili, L., Bieger, J., Dechesne, F., & Dignum, V. (2019). AI Ethics for Law Enforcement: A Study into Requirements for Responsible Use of AI at the Dutch Police. Delphi, 2, 179. https://scholarlypublications.universiteitleiden.nl/access/item%3A2984332/view 
+
+#### Fairness
+
+Agarwal, A., Beygelzimer, A., Dudík, M., Langford, J., & Wallach, H. (2018, July). A reductions approach to fair classification. In International Conference on Machine Learning (pp. 60-69). PMLR. http://proceedings.mlr.press/v80/agarwal18a/agarwal18a.pdf
+
+Agarwal, A., Dudík, M., & Wu, Z. S. (2019, May). Fair regression: Quantitative definitions and reduction-based algorithms. In International Conference on Machine Learning (pp. 120-129). PMLR. http://proceedings.mlr.press/v97/agarwal19d/agarwal19d.pdf
+
+Albarghouthi, A., D'Antoni, L., Drews, S., & Nori, A. V. (2017). Fairsquare: probabilistic verification of program fairness. Proceedings of the ACM on Programming Languages, 1(OOPSLA), 1-30. https://dl.acm.org/doi/pdf/10.1145/3133904
+
+Barocas, S., & Selbst, A. D. (2016). Big data's disparate impact. Calif. L. Rev., 104, 671. http://www.datascienceassn.org/sites/default/files/Big%20Data%27s%20Disparate%20Impact.pdf
+
+Baur, T., Mehlmann, G., Damian, I., Lingenfelser, F., Wagner, J., Lugrin, B., ... & Gebhard, P. (2015). Context-Aware Automated Analysis and Annotation of Social Human--Agent Interactions. ACM Transactions on Interactive Intelligent Systems (TiiS), 5(2), 1-33. https://www.researchgate.net/profile/Tobias-Baur-3/publication/279748956_Context-Aware_Automated_Analysis_and_Annotation_of_Social_Human-Agent_Interactions/links/56f3c58808ae95e8b6ccff71/Context-Aware-Automated-Analysis-and-Annotation-of-Social-Human-Agent-Interactions.pdf
+
+Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Advances in neural information processing systems, 29, 4349-4357. https://papers.nips.cc/paper/6228-estimating-the-size-of-a-large-network-and-its-communities-from-a-random-sample.pdf
+
+Broesch, J., Barrett, H. C., & Henrich, J. (2014). Adaptive content biases in learning about animals across the life course. Human Nature, 25(2), 181-199. https://robobees.seas.harvard.edu/files/culture_cognition_coevol_lab/files/broesch_barrett_henrich_2014.pdf
+
+Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. https://arxiv.org/pdf/1608.07187.pdf?ref=hackernoon.com
+
+Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015, August). Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission. In Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1721-1730). https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.1729&rep=rep1&type=pdf
+
+Chouldechova, A. (2017). Fair prediction with disparate impact: A study of bias in recidivism prediction instruments. Big data, 5(2), 153-163. https://arxiv.org/pdf/1703.00056
+
+Corbett-Davies, S., & Goel, S. (2018). The measure and mismeasure of fairness: A critical review of fair machine learning. arXiv preprint arXiv:1808.00023. https://arxiv.org/pdf/1808.00023.pdf,
+
+Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017, August). Algorithmic decision making and the cost of fairness. In Proceedings of the 23rd acm sigkdd international conference on knowledge discovery and data mining (pp. 797-806). https://arxiv.org/pdf/1701.08230.pdf?source=post_page
+
+Cowgill, B., Dell'Acqua, F., Deng, S., Hsu, D., Verma, N., & Chaintreau, A. (2020, July). Biased programmers? or biased data? a field experiment in operationalizing ai ethics. In Proceedings of the 21st ACM Conference on Economics and Computation (pp. 679-681). https://arxiv.org/pdf/2012.02394
+
+Cronin, A. M., & Vickers, A. J. (2008). Statistical methods to correct for verification bias in diagnostic studies are inadequate when there are few false negatives: a simulation study. BMC Medical Research Methodology, 8(1), 1-9. https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-8-75
+
+D'Amour, A., Srinivasan, H., Atwood, J., Baljekar, P., Sculley, D., & Halpern, Y. (2020, January). Fairness is not static: deeper understanding of long term fairness via simulation studies. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 525-534). https://dl.acm.org/doi/pdf/10.1145/3351095.3372878
+
+Datta, A., Sen, S., & Zick, Y. (2016, May). Algorithmic transparency via quantitative input influence: Theory and experiments with learning systems. In 2016 IEEE symposium on security and privacy (SP) (pp. 598-617). IEEE.  https://www.frogheart.ca/wp-content/uploads/2016/06/CarnegieMellon_AlgorithmicTransparency.pdf
+
+de Greeff, J., de Boer, M. H., Hillerström, F. H., Bomhof, F., Jorritsma, W., & Neerincx, M. A. (2021). The FATE System: FAir, Transparent and Explainable Decision Making. In AAAI Spring Symposium: Combining Machine Learning with Knowledge Engineering. http://ceur-ws.org/Vol-2846/paper35.pdf
+
+Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012, January). Fairness through awareness. In Proceedings of the 3rd innovations in theoretical computer science conference (pp. 214-226). https://arxiv.org/pdf/1104.3913
+
+Eitel-Porter, R. (2021). Beyond the promise: implementing ethical AI. AI and Ethics, 1(1), 73-80. https://link.springer.com/article/10.1007/s43681-020-00011-6
+
+Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. Advances in neural information processing systems, 29, 3315-3323. https://papers.nips.cc/paper/6374-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models.pdf
+
+Feldman, M., Friedler, S. A., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2015, August). Certifying and removing disparate impact. In proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining (pp. 259-268). https://arxiv.org/pdf/1412.3756.pdf;
+
+Friedler, S. A., Scheidegger, C., Venkatasubramanian, S., Choudhary, S., Hamilton, E. P., & Roth, D. (2019, January). A comparative study of fairness-enhancing interventions in machine learning. In Proceedings of the conference on fairness, accountability, and transparency (pp. 329-338). https://arxiv.org/pdf/1802.04422
+
+George, Joey F., Kevin Duffy, and Manju Ahuja. "Countering the anchoring and adjustment bias with decision support systems." Decision Support Systems 29.2 (2000): 195-206. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.3329&rep=rep1&type=pdf
+
+Grgic-Hlaca, N., Zafar, M. B., Gummadi, K. P., & Weller, A. (2016, December). The case for process fairness in learning: Feature selection for fair decision making. In NIPS Symposium on Machine Learning and the Law (Vol. 1, p. 2). http://www.mlandthelaw.org/papers/grgic.pdf
+
+Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. Advances in neural information processing systems, 29, 3315-3323. https://papers.nips.cc/paper/6374-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models.pdf
+
+Helwegen, R., Louizos, C., & Forré, P. (2020). Improving fair predictions using variational inference in causal models. arXiv preprint arXiv:2008.10880. https://arxiv.org/pdf/2008.10880
+
+Holstein, K., Wortman Vaughan, J., Daumé III, H., Dudik, M., & Wallach, H. (2019, May). Improving fairness in machine learning systems: What do industry practitioners need?. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-16). https://arxiv.org/pdf/1812.05239
+
+Hooker, S. (2021). Moving beyond “algorithmic bias is a data problem”. Patterns, 2(4), 100241. https://www.sciencedirect.com/science/article/pii/S2666389921000611
+
+Hutchinson, B., & Mitchell, M. (2019, January). 50 years of test (un) fairness: Lessons for machine learning. In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 49-58). https://arxiv.org/pdf/1811.10104
+
+Jacobs, A. Z., & Wallach, H. (2021, March). Measurement and fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 375-385). https://dl.acm.org/doi/pdf/10.1145/3442188.3445901
+
+Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). https://mdsoar.org/bitstream/handle/11603/11254/KayMatuszekMunsonCHI2015GenderImageSearch.pdf?sequence=1
+
+Kilbertus, N., Rojas-Carulla, M., Parascandolo, G., Hardt, M., Janzing, D., & Schölkopf, B. (2017). Avoiding discrimination through causal reasoning. arXiv preprint arXiv:1706.02744. https://arxiv.org/pdf/1706.02744
+
+Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). Inherent trade-offs in the fair determination of risk scores. arXiv preprint arXiv:1609.05807. https://arxiv.org/pdf/1609.05807
+
+Kusner, M. J., Loftus, J. R., Russell, C., & Silva, R. (2017). Counterfactual fairness. arXiv preprint arXiv:1703.06856. https://arxiv.org/pdf/1703.06856
+
+Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society, 5(1), 2053951718756684. https://journals.sagepub.com/doi/pdf/10.1177/2053951718756684
+
+Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 54(6), 1-35. https://arxiv.org/pdf/1908.09635
+
+Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. Frontiers in Big Data, 2, 13. https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full
+
+Pessach, D., & Shmueli, E. (2020). Algorithmic fairness. arXiv preprint arXiv:2001.09784. https://arxiv.org/pdf/2001.09784
+
+Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, E. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151). https://dl.acm.org/doi/pdf/10.1145/3375627.3375820
+
+Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019, January). Fairness and abstraction in sociotechnical systems. In Proceedings of the conference on fairness, accountability, and transparency (pp. 59-68). https://dl.acm.org/doi/pdf/10.1145/3287560.3287598
+
+Sweeney, L. (2013). Discrimination in online ad delivery. Communications of the ACM, 56(5), 44-54. https://arxiv.org/pdf/1301.6822
+
+Torralba, A., & Efros, A. A. (2011, June). Unbiased look at dataset bias. In CVPR 2011 (pp. 1521-1528). IEEE. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.944.9518&rep=rep1&type=pdf
+
+Verma, S., & Rubin, J. (2018, May). Fairness definitions explained. In 2018 ieee/acm international workshop on software fairness (fairware) (pp. 1-7). IEEE. https://fairware.cs.umass.edu/papers/Verma.pdf 
+
+Yang, K., Huang, B., Stoyanovich, J., & Schelter, S. (2020, January). Fairness-Aware Instrumentation of Preprocessing~ Pipelines for Machine Learning. In Workshop on Human-In-the-Loop Data Analytics (HILDA'20). https://par.nsf.gov/servlets/purl/10182459
+
+Zemel, R., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013, May). Learning fair representations. In International conference on machine learning (pp. 325-333). PMLR. http://proceedings.mlr.press/v28/zemel13.pdf
+
+Zhao, J., Wang, T., Yatskar, M., Ordonez, V., & Chang, K. W. (2017). Men also like shopping: Reducing gender bias amplification using corpus-level constraints. arXiv preprint arXiv:1707.09457. https://arxiv.org/pdf/1707.09457
+
+#### Interpretability, transparency, explainability
+
+Adadi, A., & Berrada, M. (2018). Peeking inside the black-box: a survey on explainable artificial intelligence (XAI). IEEE access, 6, 52138-52160. https://ieeexplore.ieee.org/iel7/6287639/6514899/08466590.pdf
+
+Akata, Z., Balliet, D., De Rijke, M., Dignum, F., Dignum, V., Eiben, G., ... & Welling, M. (2020). A research agenda for hybrid intelligence: augmenting human intellect with collaborative, adaptive, responsible, and explainable artificial intelligence. IEEE Annals of the History of Computing, 53(08), 18-28. https://vossen.info/wp-content/uploads/2020/08/akata-2020-research.pdf
+
+Anderson, A., Dodge, J., Sadarangani, A., Juozapaitis, Z., Newman, E., Irvine, J., ... & Burnett, M. (2020). Mental models of mere mortals with explanations of reinforcement learning. ACM Transactions on Interactive Intelligent Systems (TiiS), 10(2), 1-37. https://dl.acm.org/doi/pdf/10.1145/3366485
+
+Anjomshoae, S., Najjar, A., Calvaresi, D., & Främling, K. (2019). Explainable agents and robots: Results from a systematic literature review. In 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2019), Montreal, Canada, May 13–17, 2019 (pp. 1078-1088). International Foundation for Autonomous Agents and Multiagent Systems. https://www.diva-portal.org/smash/get/diva2:1303810/FULLTEXT01.pdf
+
+Barocas, S., Selbst, A. D., & Raghavan, M. (2020, January). The hidden assumptions behind counterfactual explanations and principal reasons. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 80-89). https://dl.acm.org/doi/pdf/10.1145/3351095.3372830
+
+Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. Information Fusion, 58, 82-115. https://arxiv.org/pdf/1910.10045
+
+Broekens, J., Harbers, M., Hindriks, K., Van Den Bosch, K., Jonker, C., & Meyer, J. J. (2010, September). Do you get it? User-evaluated explainable BDI agents. In German Conference on Multiagent System Technologies (pp. 28-39). Springer, Berlin, Heidelberg. https://www.researchgate.net/profile/Maaike_Harbers/publication/221248771_Do_you_get_it_User-evaluated_explainable_BDI_agents/links/02e7e51a3698beeec1000000/Do-you-get-it-User-evaluated-explainable-BDI-agents.pdf
+
+Byrne, R. M. (2019, August). Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning. In IJCAI (pp. 6276-6282). https://www.ijcai.org/proceedings/2019/0876.pdf
+
+Doshi-Velez, F., & Kim, B. (2017). Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608. https://arxiv.org/pdf/1702.08608
+
+Fox, M., Long, D., & Magazzeni, D. (2017). Explainable planning. arXiv preprint arXiv:1709.10256. https://arxiv.org/pdf/1709.10256
+
+Gomez, O., Holter, S., Yuan, J., & Bertini, E. (2020, March). ViCE: visual counterfactual explanations for machine learning models. In Proceedings of the 25th International Conference on Intelligent User Interfaces (pp. 531-535). https://arxiv.org/pdf/2003.02428
+
+Gregor, S., & Benbasat, I. (1999). Explanations from intelligent systems: Theoretical foundations and implications for practice. MIS quarterly, 497-530. https://dl.acm.org/doi/abs/10.2307/249487
+
+Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A survey of methods for explaining black box models. ACM computing surveys (CSUR), 51(5), 1-42. https://dl.acm.org/doi/pdf/10.1145/3236009
+
+Harbers, M., van den Bosch, K., & Meyer, J. J. (2010, August). Design and evaluation of explainable BDI agents. In 2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (Vol. 2, pp. 125-132). IEEE. https://www.karelvandenbosch.nl/documents/2010_Harbers_etal_IAT_Design_and_Evaluation_of_Explainable_BDI_Agents.pdf
+
+Hayes, B., & Shah, J. A. (2017, March). Improving robot controller transparency through autonomous policy explanation. In 2017 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI (pp. 303-312). IEEE. https://dspace.mit.edu/bitstream/handle/1721.1/116013/hri17.pdf?sequence=1&isAllowed=y
+
+Holzinger, A., Langs, G., Denk, H., Zatloukal, K., & Müller, H. (2019). Causability and explainability of artificial intelligence in medicine. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 9(4), e1312. https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1312
+
+Janzing, D., Minorics, L., & Blöbaum, P. (2020, June). Feature relevance quantification in explainable AI: A causal problem. In International Conference on Artificial Intelligence and Statistics (pp. 2907-2916). PMLR. http://proceedings.mlr.press/v108/janzing20a/janzing20a.pdf
+
+Kaptein, F., Broekens, J., Hindriks, K., & Neerincx, M. (2017, August). Personalised self-explanation by robots: The role of goals versus beliefs in robot-action explanation for children and adults. In 2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN) (pp. 676-682). IEEE. https://www.researchgate.net/profile/Frank-Kaptein/publication/321811208_Personalised_self-explanation_by_robots_The_role_of_goals_versus_beliefs_in_robot-action_explanation_for_children_and_adults/links/5a38de3f0f7e9b7c4870083e/Personalised-self-explanation-by-robots-The-role-of-goals-versus-beliefs-in-robot-action-explanation-for-children-and-adults.pdf
+
+Kaur, H., Nori, H., Jenkins, S., Caruana, R., Wallach, H., & Wortman Vaughan, J. (2020, April). Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). http://www.jennwv.com/papers/interp-ds.pdf
+
+Koh, P. W., & Liang, P. (2017, July). Understanding black-box predictions via influence functions. In International Conference on Machine Learning (pp. 1885-1894). PMLR. http://proceedings.mlr.press/v70/koh17a/koh17a.pdf
+
+Kumar, I. E., Venkatasubramanian, S., Scheidegger, C., & Friedler, S. (2020, November). Problems with Shapley-value-based explanations as feature importance measures. In International Conference on Machine Learning (pp. 5491-5500). PMLR. http://proceedings.mlr.press/v119/kumar20e/kumar20e.pdf
+
+Langley, P., Meadows, B., Sridharan, M., & Choi, D. (2017, February). Explainable agency for intelligent autonomous systems. In Twenty-Ninth IAAI Conference. https://www.aaai.org/ocs/index.php/IAAI/IAAI17/paper/viewPDFInterstitial/15046/13734
+
+Lecue, F. (2020). On the role of knowledge graphs in explainable AI. Semantic Web, 11(1), 41-51. http://semantic-web-journal.org/system/files/swj2259.pdf
+
+Letham, B., Rudin, C., McCormick, T. H., & Madigan, D. (2015). Interpretable classifiers using rules and bayesian analysis: Building a better stroke prediction model. The Annals of Applied Statistics, 9(3), 1350-1371. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/Interpretable-classifiers-using-rules-and-Bayesian-analysis--Building-a/10.1214/15-AOAS848.pdf
+
+Lim, B. Y., Dey, A. K., & Avrahami, D. (2009, April). Why and why not explanations improve the intelligibility of context-aware intelligent systems. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 2119-2128). https://www.academia.edu/download/6079173/lim_chi_09.pdf
+
+Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). From local explanations to global understanding with explainable AI for trees. Nature machine intelligence, 2(1), 56-67. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326367/
+
+Lyons, J. B., & Havig, P. R. (2014, June). Transparency in a human-machine context: approaches for fostering shared awareness/intent. In International conference on virtual, augmented and mixed reality (pp. 181-190). Springer, Cham. https://link.springer.com/content/pdf/10.1007/978-3-319-07458-0_18.pdf
+
+Madumal, P., Miller, T., Sonenberg, L., & Vetere, F. (2020, April). Explainable reinforcement learning through a causal lens. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 03, pp. 2493-2500). https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487
+
+Miller, T. (2018). Contrastive explanation: A structural-model approach. arXiv preprint arXiv:1811.03163. https://arxiv.org/pdf/1811.03163
+
+Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences. Artificial intelligence, 267, 1-38. https://arxiv.org/pdf/1706.07269
+
+Miller, T., Howe, P., & Sonenberg, L. (2017). Explainable AI: Beware of inmates running the asylum or: How I learnt to stop worrying and love the social and behavioural sciences. arXiv preprint arXiv:1712.00547. https://arxiv.org/pdf/1712.00547
+
+Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). https://arxiv.org/pdf/1810.03993.pdf?source=post_page
+
+Mittelstadt, B., Russell, C., & Wachter, S. (2019, January). Explaining explanations in AI. In Proceedings of the conference on fairness, accountability, and transparency (pp. 279-288). https://arxiv.org/pdf/1811.01439
+
+Nori, H., Jenkins, S., Koch, P., & Caruana, R. (2019). Interpretml: A unified framework for machine learning interpretability. arXiv preprint arXiv:1909.09223. https://arxiv.org/pdf/1909.09223
+
+Poyiadzi, R., Sokol, K., Santos-Rodriguez, R., De Bie, T., & Flach, P. (2020, February). FACE: Feasible and actionable counterfactual explanations. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 344-350). https://arxiv.org/pdf/1909.09369
+
+Preece, A. (2018). Asking ‘Why’in AI: Explainability of intelligent systems–perspectives and challenges. Intelligent Systems in Accounting, Finance and Management, 25(2), 63-72. https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/isaf.1422
+
+Rathi, S. (2019). Generating counterfactual and contrastive explanations using SHAP. arXiv preprint arXiv:1906.09293. https://arxiv.org/pdf/1906.09293
+
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). Anchors: High-precision model-agnostic explanations. In Proceedings of the AAAI conference on artificial intelligence (Vol. 32, No. 1). https://ojs.aaai.org/index.php/AAAI/article/view/11491/11350
+
+Roscher, R., Bohn, B., Duarte, M. F., & Garcke, J. (2020). Explainable machine learning for scientific insights and discoveries. Ieee Access, 8, 42200-42216. https://ieeexplore.ieee.org/iel7/6287639/8948470/09007737.pdf
+
+Samek, W., & Müller, K. R. (2019). Towards explainable artificial intelligence. In Explainable AI: interpreting, explaining and visualizing deep learning (pp. 5-22). Springer, Cham. https://arxiv.org/pdf/1909.12072
+
+Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-cam: Visual explanations from deep networks via gradient-based localization. In Proceedings of the IEEE international conference on computer vision (pp. 618-626). http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf
+
+Stepin, I., Alonso, J. M., Catala, A., & Pereira-Fariña, M. (2021). A survey of contrastive and counterfactual explanation generation methods for explainable artificial intelligence. IEEE Access, 9, 11974-12001. https://ieeexplore.ieee.org/iel7/6287639/9312710/09321372.pdf
+
+van der Waa, J., van Diggelen, J., & Neerincx, M. (2018). The design and validation of an intuitive confidence measure. memory, 2, 1. https://www.researchgate.net/profile/Jasper_Waa/publication/323772259_The_design_and_validation_of_an_intuitive_confidence_measure/links/5aaa2ba0aca272d39cd64796/The-design-and-validation-of-an-intuitive-confidence-measure.pdf
+
+Tintarev, N., & Masthoff, J. (2007, October). Effective explanations of recommendations: user-centered design. In Proceedings of the 2007 ACM conference on Recommender systems (pp. 153-156). https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.888.3437&rep=rep1&type=pdf
+
+van der Waa, J., van Diggelen, J., Bosch, K. V. D., & Neerincx, M. (2018). Contrastive explanations for reinforcement learning in terms of expected consequences. arXiv preprint arXiv:1807.08706. https://arxiv.org/pdf/1807.08706
+
+van der Waa, J., Robeer, M., van Diggelen, J., Brinkhuis, M., & Neerincx, M. (2018). Contrastive explanations with local foil trees. arXiv preprint arXiv:1806.07470. https://arxiv.org/pdf/1806.07470.pdf&sa=D&ust=1537878080177000
+
+van der Waa, J., Nieuwburg, E., Cremers, A., & Neerincx, M. (2021). Evaluating XAI: A comparison of rule-based and example-based explanations. Artificial Intelligence, 291, 103404. https://www.sciencedirect.com/science/article/pii/S0004370220301533
+
+van der Waa, J., Schoonderwoerd, T., van Diggelen, J., & Neerincx, M. (2020). Interpretable confidence measures for decision support systems. International Journal of Human-Computer Studies, 144, 102493. https://www.sciencedirect.com/science/article/pii/S1071581920300951
+
+Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Transparent, explainable, and accountable AI for robotics. Science (Robotics), 2(6). https://philarchive.org/archive/WACTEA
+
+Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. Harv. JL & Tech., 31, 841. https://arxiv.org/pdf/1711.00399.pdf?source=post_page
+
+Wang, N., Pynadath, D. V., & Hill, S. G. (2016, March). Trust calibration within a human-robot team: Comparing automatically generated explanations. In 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 109-116). IEEE. https://www.cs.utexas.edu/users/sniekum/classes/RLFD-F16/papers/Trust.pdf
+
+Wang, D., Yang, Q., Abdul, A., & Lim, B. Y. (2019, May). Designing theory-driven user-centric explainable AI. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-15). http://www.brianlim.net/wordpress/wp-content/uploads/2019/01/chi2019-reasoned-xai-framework.pdf
+
+Weitz, K., Schiller, D., Schlagowski, R., Huber, T., & André, E. (2019, July). " Do you trust me?" Increasing user-trust by integrating virtual agents in explainable AI interaction design. In Proceedings of the 19th ACM International Conference on Intelligent Virtual Agents (pp. 7-9). https://opus.bibliothek.uni-augsburg.de/opus4/files/65191/X_Plane_IVA_2019_EA.pdf
+
+Yang, X. J., Unhelkar, V. V., Li, K., & Shah, J. A. (2017, March). Evaluating effects of user experience and system transparency on trust in automation. In 2017 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI (pp. 408-416). IEEE. https://dspace.mit.edu/bitstream/handle/1721.1/116045/Yang_HRI_2017.pdf?sequence=1&isAllowed=y
+
 ### Blogs
 
 <a name="using"></a>
